@@ -11,8 +11,6 @@ title = "Organizers"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-
-<h2>Organizers</h2>
   
 * [Ludovico Boratto (University of Cagliari, Italy)](https://www.ludovicoboratto.com/) 
 * [Cataldo Musto (University of Bari, Italy)](http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto)
