@@ -13,7 +13,7 @@ title = "Venue"
   columns = "1"
 +++
 
-The summer school will be held at [University of Bari, Department of Computer Science, located on Via Edoardo Orabona 4, 70125 Bari, Italy](https://www.google.com/maps/place/Universit%C3%A0+degli+Studi+di+Bari+-+Dipartimento+di+Informatica/@41.1097356,16.8789327,17z/data=!3m1!4b1!4m6!3m5!1s0x1347e84ee4ac5023:0x2fa7d7c509b8013f!8m2!3d41.1097316!4d16.8815076!16s%2Fg%2F1tdlqy_6?entry=ttu)
+The summer school will be held at [University of Bari, Department of Computer Science, Via Edoardo Orabona 4, 70125 Bari, Italy](https://www.google.com/maps/place/Universit%C3%A0+degli+Studi+di+Bari+-+Dipartimento+di+Informatica/@41.1097356,16.8789327,17z/data=!3m1!4b1!4m6!3m5!1s0x1347e84ee4ac5023:0x2fa7d7c509b8013f!8m2!3d41.1097316!4d16.8815076!16s%2Fg%2F1tdlqy_6?entry=ttu)
 
 
 
