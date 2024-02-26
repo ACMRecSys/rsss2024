@@ -1,0 +1,30 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#home'
+    weight: 10
+  - name: Information
+    url: '#info'
+    weight: 20
+  - name: Registration
+    url: '#registration'
+    weight: 30
+  - name: Program
+    url: '#program'
+    weight: 40
+  - name: Venue
+    url: '#venue'
+    weight: 30
+  - name: Speakers
+    url: '#speakers'
+    weight: 60
+  - name: Organizers
+    url: '#organizers'
+    weight: 70  
+  - name: RecSys Summer School 2023
+    url: https://acmrecsys.github.io/rsss2023/
+    weight: 80
