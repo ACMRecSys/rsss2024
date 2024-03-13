@@ -40,13 +40,13 @@ When selecting proposals, the organizing committee will consider the following c
 
 * **Relevance**: The proposed lecture should align with the themes and objectives of the summer school, focusing on topics related to recommender systems. It should contribute to the overall learning goals of the school.
 * **Expertise**: The speaker should have significant expertise and experience in the proposed topic. This can be demonstrated through previous research, publications, industry experience, or teaching experience in the field of recommender systems.
-* **Innovation** (not applicable for *Foundational topics*): The proposed lecture should offer novel insights, perspectives, or methodologies to enrich the participants' understanding of the topic. It should go beyond basic concepts and provide advanced or cutting-edge knowledge.
+* **Innovation** (*not applicable for Foundational topics*): The proposed lecture should offer novel insights, perspectives, or methodologies to enrich the participants' understanding of the topic. It should go beyond basic concepts and provide advanced or cutting-edge knowledge.
 * **Practicality**: The lecture should be practical and applicable, providing participants with actionable insights or skills to apply in their research or professional endeavors. Case studies, examples, and demonstrations are encouraged.
 * **Engagement**: The speaker should be able to engage the audience effectively, fostering interactive discussions, answering questions, and encouraging participant participation. The lecture should be engaging and informative.
 * **Clarity**: The lecture should be well-structured and clearly presented, ensuring participants can follow the content easily. The speaker should be able to communicate complex concepts in a clear and understandable manner.
 * **Diversity**: The organizing committee will strive to select a diverse range of speakers representing different perspectives, backgrounds, and expertise within the field of recommender systems. This will ensure a well-rounded and comprehensive learning experience for participants.
 * **Ethical Considerations**: The proposed lecture should adhere to ethical guidelines and considerations, especially when discussing topics related to fairness, bias, privacy, and transparency in recommender systems.
-* **Originality** (not applicable for *Foundational topics*): The proposed lecture should not be a direct replication of existing content or materials. Speakers are encouraged to present original ideas, research findings, or methodologies.
+* **Originality** (*not applicable for Foundational topics*): The proposed lecture should not be a direct replication of existing content or materials. Speakers are encouraged to present original ideas, research findings, or methodologies.
 * **Feasibility**: The proposed lecture should be feasible within the allocated time frame (approximately 90 minutes) and should not require extensive resources or specialized equipment.
 
 ## Important Dates
