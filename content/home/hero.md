@@ -16,7 +16,7 @@ cta_note:
 design:
   background:
     image: header.jpg
-    image_darken: 0.5
+    image_darken: 0.2
     image_size: cover
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
@@ -25,7 +25,7 @@ advanced:
   css_class: fullscreen
 ---
 
-**Supported by ACM RecSys, ACM Europe Council, DDSA, and SIGCHI**  
+**Supported by ACM RecSys, ACM Europe Council, and SIGCHI**  
 October 8-12, 2024, Bari, Italy
 
 
