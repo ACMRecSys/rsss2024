@@ -2,7 +2,7 @@
 # Information.
 widget = "blank"
 headless = true # This file represents a page section.
-weight = 15
+weight = 20
 active = true 
 
 title = "Call for Lecturers"

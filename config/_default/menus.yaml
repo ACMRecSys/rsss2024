@@ -12,10 +12,10 @@ main:
     weight: 20
   - name: Call for Lecturers
     url: '#cfl'
-    weight: 25
-  - name: Speakers
-    url: '#speakers'
     weight: 30
+  # - name: Speakers
+  #   url: '#speakers'
+  #   weight: 30
   - name: Program
     url: '#program'
     weight: 40
@@ -29,6 +29,6 @@ main:
     url: '#organizers'
     weight: 70
 
-#  - name: RecSys Summer School 2023
-#    url: https://acmrecsys.github.io/rsss2023/
-#    weight: 80
+  # - name: RecSys Summer School 2023
+  #   url: https://acmrecsys.github.io/rsss2023/
+  #   weight: 80
