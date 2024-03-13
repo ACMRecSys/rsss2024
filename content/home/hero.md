@@ -3,7 +3,7 @@
 widget: hero
 headless: true
 weight: 10
-title: RecSys Summer School 2024
+title: RecSys Summer School 1994
 hero_media: 
 cta:
   label: #'**Read more**'
