@@ -2,7 +2,7 @@
 # Registration.
 widget = "blank"
 headless = true  # This file represents a page section.
-weight = 20
+weight = 40
 active = true 
 
 # ... Put Your Section Options Here (title etc.) ...

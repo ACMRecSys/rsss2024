@@ -2,7 +2,7 @@
 # Speakers.
 widget = "blank"
 headless = true  # This file represents a page section.
-weight = 25
+weight = 20
 active = true 
 
 # ... Put Your Section Options Here (title etc.) ...

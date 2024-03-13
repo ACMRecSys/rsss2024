@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-weight = 35 
+weight = 60 
 active = true
 
 # ... Put Your Section Options Here (title etc.) ...
