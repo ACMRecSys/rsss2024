@@ -45,5 +45,5 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 # If porting an existing theme
 [original]
   name = ""
-  homepage = "https://acmrecsys.github.io/rsss2024/"
+  homepage = ""
   repo = ""
