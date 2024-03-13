@@ -10,17 +10,17 @@ main:
   - name: Info
     url: '#info'
     weight: 20
-  - name: Registration
-    url: '#registration'
+  - name: Speakers
+    url: '#speakers'
     weight: 30
   - name: Program
     url: '#program'
     weight: 40
+  - name: Registration
+    url: '#registration'
+    weight: 50
   - name: Venue
     url: '#venue'
-    weight: 30
-  - name: Speakers
-    url: '#speakers'
     weight: 60
   - name: Organizers
     url: '#organizers'
