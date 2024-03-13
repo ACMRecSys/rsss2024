@@ -16,7 +16,7 @@ cta_note:
 design:
   background:
     image: header.jpg
-    image_darken: 0.2
+    image_darken: 0.7
     image_size: cover
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
