@@ -5,3 +5,8 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+
+#baseURL = 'https://acmrecsys.github.io/rsss2024/'
+#languageCode = 'en-us'
+#title = 'RecSys Summer School 2024'
+#theme = 'Academic'

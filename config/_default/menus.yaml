@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#home'
     weight: 10
-  - name: Information
+  - name: Info
     url: '#info'
     weight: 20
   - name: Registration

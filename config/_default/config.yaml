@@ -5,7 +5,7 @@
 
 title: RecSys Summer School 2024 # Website name
 baseurl: 'https://acmrecsys.github.io/rsss2024/' # Website URL
-relURL:  'https://acmrecsys.github.io/rsss2024/'
+#relURL:  'https://acmrecsys.github.io/rsss2024/'
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 
