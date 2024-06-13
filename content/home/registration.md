@@ -20,23 +20,26 @@ Registration includes a five-day program with courses on recommender systems, co
 
 **IMPORTANT**: Before filling in the form, you are required to pay the registration fee through *PayPal* or *Bank Transfer*. The receipt shall be attached to the registration form, so don’t forget to save it.
 
-- PayPal account: summerschool2024@recsys.acm.org
-- IBAN for Bank Transfer: IT34W0344216000000074300311
+* PayPal account: summerschool2024@recsys.acm.org
+* Bank Transfer details:
+  - IBAN: IT34W0344216000000074300311
+  - BIC: WIDIITMM
+  - Transfer description/message: *"\<Surname\> \<Name\> - RecSys 2024 Summer School Registration Fee"* 
 
 
 ## Registration Fee
 
-|          | Early (before August 30) | Mid (before October 8) | On-Site |
-|:---------|:------------------------:|:----------------------:|:-------:|
-| Students | € 350                    | € 425                  | € 500   |
-| Academic | € 450                    | € 540                  | € 630   |
-| Industry | € 550                    | € 655                  | € 750   |
+|          | Early (before August 30) | Mid (before September 30) | On-Site |
+|:---------|:------------------------:|:-------------------------:|:-------:|
+| Students | € 350                    | € 425                     | € 500   |
+| Academic | € 450                    | € 540                     | € 630   |
+| Industry | € 550                    | € 655                     | € 750   |
 
 
 ## Students Grants
 A limited number of grants is available for young Ph.D. students wishing to attend the school. The basic grant will cover the registration fee. In a few cases, reimbursing travel and accommodation costs will also be possible.
 
-To apply for funding, send an application to summerschool2024@recsys.acm.org **before July 15**. Your application should include a 1-page CV and a letter from your supervisor supporting your participation in the summer school. A maximum of $1500 will be reimbursed. Priority will be given to students enrolled at universities in developing and emerging countries. **Notifications about grants will be sent out by July 31**.
+To apply for funding, send an application to summerschool2024@recsys.acm.org **before July 23**. Your application should include a 1-page CV and a letter from your supervisor supporting your participation in the summer school. A maximum of $1500 (including the registration fee) will be reimbursed. Priority will be given to students enrolled at universities in developing and emerging countries. **Notifications about grants will be sent out by July 31**.
 
 **IMPORTANT**: Students grants will be offered in the form of reimbursement. Should you be granted funding, you will need to register for the school and book/pay for travel and accommodation first and submit receipts afterward.
 

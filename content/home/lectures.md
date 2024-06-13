@@ -14,7 +14,7 @@ title = "Lectures"
 +++
 
 |     | Lecture title | Speaker(s) | Duration |
-|:---:|:--------------|:-----------|:-----------|
+|:----|:--------------|:-----------|:-----------|
 | L1 | Best Practices for Offline Evaluation | Lien Michiels | 80 min. |
 | L2 | Bias and Fairness in Recommendation | Mirko Marras | 80 min. |
 | L3 | Creative and Innovative Approaches to Auditing <br> Recommender Systems | Catherine Baker and <br> Debbie Ging | 60 min. |
