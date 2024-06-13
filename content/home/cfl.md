@@ -3,7 +3,7 @@
 widget = "blank"
 headless = true # This file represents a page section.
 weight = 20
-active = true 
+active = false 
 
 title = "Call for Lecturers"
 
@@ -59,3 +59,13 @@ To be considered, lecture proposals should closely adhere to the following guide
 No more than two lecturers can submit proposals, and lectures must be presented by the lecturers who submitted the proposal. By the submission deadline for lecture proposals, all lecturers must possess a Ph.D. or equivalent degree. Lecture proposals should explicitly state the intended lecture category. Proposals for introductory lectures should indicate the intended level, for example, as it relates to standard textbooks and monographs in the area. Proposals for advanced lectures should specify the prerequisites in detail.
 
 To keep participation fees to a minimum, all the instructional and organizational work of the RecSys Summer School is completely voluntary. However, the registration fees of organizers and instructors will be waived, and travel and accommodation expenses will be reimbursed up to a level that will be communicated along with the proposal notification. The organization **can only guarantee reimbursement for at most one lecturer per proposal (approximately 1,500 Euros)** and can not guarantee full reimbursement of travel costs for lecturers outside of Europe. The organizers would appreciate any help in reducing the School’s expenses by seeking partial or complete coverage of travel and accommodation expenses from other sources.
+
+
+<!--
+TEXT FOR RECSYS WEBSITE:
+
+<h4>CALL FOR LECTURERS</h4>
+We are currently seeking experienced and knowledgeable speakers to deliver lectures on various topics related to recommender systems. If you are an expert in the recommender system field and are interested in contributing to our summer school, we invite you to submit a proposal for a lecture. Each lecture will be approximately <strong>90 minutes</strong> long (it is possible to extend to a <strong>maximum of 180 minutes</strong> if motivated), including time for questions and discussions. We encourage speakers to provide practical insights, case studies, and examples to enhance the learning experience for participants.
+
+Detailed information on the Summer School website.
+-->

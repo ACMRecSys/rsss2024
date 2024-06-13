@@ -25,7 +25,7 @@ advanced:
   css_class: fullscreen
 ---
 
-**Supported by ACM RecSys and SIGCHI**  
+**Supported by ACM RecSys, SIGCHI, ACM Europe, EURAI, and University of Cagliari**  
 October 8-12, 2024, Bari, Italy
 
 

@@ -13,7 +13,7 @@ title = "Program"
   columns = "1"
 +++
 
-**To be defined**
+*The final program will be announced soon*
 
 <!-- 
 | Slot | Time        | Monday June 12                                           | Tuesday June 13                                                            | Wednesday June 14                                                           | Thursday June 15                                       | Friday June 16                                      |

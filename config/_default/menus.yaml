@@ -10,12 +10,12 @@ main:
   - name: Info
     url: '#info'
     weight: 20
-  - name: Call for Lecturers
-    url: '#cfl'
-    weight: 30
-  # - name: Speakers
-  #   url: '#speakers'
+  # - name: Call for Lecturers
+  #   url: '#cfl'
   #   weight: 30
+  - name: Lectures
+    url: '#lectures'
+    weight: 30
   - name: Program
     url: '#program'
     weight: 40
