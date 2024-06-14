@@ -20,7 +20,7 @@ title = "Lectures"
 | L3  | Creative and Innovative Approaches to Auditing <br> Recommender Systems | Catherine Baker and <br> Debbie Ging | 60 min. |
 | L4  | Considering Temporal Aspects in Recommender Systems | Veronika Bogina | 60 min. |
 | L5  | Context-Aware Recommender Systems: Foundations and <br> Future Perspectives | Moshe Unger | 60 min. |
-| L6  | Conversational Recommender Systems and Recent Trends <br> Driven by Large Language Models | Li Chen and Lei Li | 90 min. |
+| L6  | Conversational Recommender Systems and Recent Trends <br> Driven by Large Language Models | Li Chen and <br> Lei Li | 90 min. |
 | L7  | Enhancing Reproducibility in Recommender Systems: A Path <br> Towards Scientific Integrity and Effective Implementation | Claudio Pomo and <br> Antonio Ferrara | 120 min. |
 | L8  | Fantastic Reviews and How to Write Them | Christine Bauer and <br> Olivier Jeunen | 80 min. |
 | L9  | Foresight and Speculative Design for Recommender Systems | Freyja van den Boom | 60 min. |
