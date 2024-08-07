@@ -18,12 +18,12 @@ To register, please fill in the following [form](https://forms.gle/1t6m1nHbSnmus
 
 Registration includes a five-day program with courses on recommender systems, coffee breaks, and lunches during all five days, a social event, and a social dinner.
 
-**IMPORTANT**: Before filling in the form, you are required to pay the registration fee through *PayPal* or *Bank Transfer*. The receipt shall be attached to the registration form, so don’t forget to save it.
+**IMPORTANT**: Before filling in the form, you are required to pay the registration fee through *Bank Transfer*. The receipt shall be attached to the registration form, so don’t forget to save it.
 
-* PayPal account: summerschool2024@recsys.acm.org
 * Bank Transfer details:
-  - IBAN: IT34W0344216000000074300311
-  - BIC: WIDIITMM
+  - Holder: Le Nove Muse Associazione
+  - IBAN: IT92H0306909606100000134892
+  - BIC: BCITITMM
   - Transfer description/message: *"\<Surname\> \<Name\> - RecSys 2024 Summer School Registration Fee"* 
 
 
