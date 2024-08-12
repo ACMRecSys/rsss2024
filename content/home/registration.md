@@ -35,6 +35,8 @@ Registration includes a five-day program with courses on recommender systems, co
 | Academic | € 450                    | € 540                     | € 630   |
 | Industry | € 550                    | € 655                     | € 750   |
 
+If the invoice recipient is a VAT holder, the registration fee will be subject to an additional 22% VAT.
+
 
 ## Students Grants
 A limited number of grants is available for young Ph.D. students wishing to attend the school. The basic grant will cover the registration fee. In a few cases, reimbursing travel and accommodation costs will also be possible.
