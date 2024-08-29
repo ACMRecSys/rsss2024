@@ -15,6 +15,32 @@ title = "Program"
 
 *The final program will be announced soon*
 
+## Tuesday, October 8, 2024
+| Time | Lecture / Event |
+|:-----|:----------------|
+| 9:00 - 9:30   | Opening
+| 9:30 - 10:30  | [L10] Alan Said: "From Netnews to Ethics: A Historical Overview of Recommender Systems"
+| 10:30 - 11:00 | Break
+| 11:00 - 12:20 | [L11] Aonghus Lawlor: "Graph Neural Networks for Recommender Systems"
+| 12:20 - 14:00 | Lunch
+| 14:00 - 16:00 | [L16] Vito Walter Anelli, Nicola Ferro, Maurizio Ferrari Dacrema: "Offline Recommender Systems Evaluation: Towards a Holistic Understanding of Recommendation Performance"
+| 16:00 - 16:30 | Break
+| 16:30 - 17:50 | [L1] Lien Michiels: "Best Practices for Offline Evaluation"
+
+## Wednesday, October 9, 2024
+
+
+
+## Thursday, October 10, 2024
+
+
+
+## Friday, October 11, 2024
+
+
+
+## Saturday, October 12, 2024
+
 <!-- 
 | Slot | Time        | Monday June 12                                           | Tuesday June 13                                                            | Wednesday June 14                                                           | Thursday June 15                                       | Friday June 16                                      |
 |------|-------------|----------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------|
