@@ -37,7 +37,7 @@ title = "Program"
 | 12:20 - 13:40 | *Lunch* ||
 | 13:40 - 15:00 | Multimodal Deep Learning for Recommendation | Daniele Malitesta |
 | 15:00 - 15:30 | *Break* ||
-| 15:30 - 17:15 | Recent Advances in Deep Generative Models for Recommender Systems: A Hands-On Lecture | Yashar Deldjoo, Zhankui He, and<br>Anton Korikov |
+| 15:30 - 17:15 | Recent Advances in Deep Generative Models for Recommender Systems:<br>A Hands-On Lecture | Yashar Deldjoo, Zhankui He, and<br>Anton Korikov |
 | from 18:00    | *Social Event* ||
 
 
