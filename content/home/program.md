@@ -23,7 +23,7 @@ title = "Program"
 | 10:30 - 11:00 | *Break* ||
 | 11:00 - 12:20 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
 | 12:20 - 14:00 | *Lunch* || 
-| 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding<br>of Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
+| 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding of Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
 | 16:00 - 16:30 | *Break* ||
 | 16:30 - 17:50 | Best Practices for Offline Evaluation | Lien Michiels |
 
@@ -42,7 +42,15 @@ title = "Program"
 
 
 ## Thursday, October 10, 2024
-
+| Time | Lecture / Event | Speaker(s) |
+|:-----|:--------|:---------|
+| 9:30 - 11:30  | Transformers for Recommender Systems | Craig Macdonald and Aleksandr V. Petrov |
+| 11:30 - 12:00 | *Break* ||
+| 12:00 - 13:20 | Conversational Recommender Systems and Recent Trends Driven by LLMs (Part 1) | Wanling Cai, Li Chen, and Lei Li |
+| 13:20 - 14:40 | *Lunch* ||
+| 14:30 - 15:40 | Conversational Recommender Systems and Recent Trends Driven by LLMs (Part 2) | Wanling Cai, Li Chen, and Lei Li |
+| 15:40 - 16:10 | *Break* ||
+| 16:10 - 17:30 | Bias and Fairness in Recommendation | Mirko Marras |
 
 
 ## Friday, October 11, 2024
