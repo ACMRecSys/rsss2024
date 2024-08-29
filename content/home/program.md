@@ -23,7 +23,7 @@ title = "Program"
 | 10:30 - 11:00 | *Break* ||
 | 11:00 - 12:20 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
 | 12:20 - 14:00 | *Lunch* || 
-| 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding of Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
+| 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding of<br>Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
 | 16:00 - 16:30 | *Break* ||
 | 16:30 - 17:50 | Best Practices for Offline Evaluation | Lien Michiels |
 
