@@ -72,9 +72,9 @@ title = "Program"
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
 | 10:00 - 11:00 | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
-| 11:00 - 12:30 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems Beyond Accuracy | Irina Nalis and Julia Neidhardt |
+| 11:00 - 12:30 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems<br>Beyond Accuracy | Irina Nalis and Julia Neidhardt |
 | 12:30 - 14:00 | *Lunch* ||
-| 14:00 - 16:00 | Enhancing Reproducibility in Recommender Systems: A Path Towards Scientific Integrity and Effective Implementation | Antonio Ferrara and Claudio Pomo | 
+| 14:00 - 16:00 | Enhancing Reproducibility in Recommender Systems: A Path Towards Scientific Integrity<br>and Effective Implementation | Antonio Ferrara and Claudio Pomo | 
 | from 16:00    | *Closing* ||
 
 
