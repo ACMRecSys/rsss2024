@@ -23,12 +23,22 @@ title = "Program"
 | 10:30 - 11:00 | *Break* ||
 | 11:00 - 12:20 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
 | 12:20 - 14:00 | *Lunch* || 
-| 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding<br>of Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>Maurizio Ferrari Dacrema |
+| 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding<br>of Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
 | 16:00 - 16:30 | *Break* ||
 | 16:30 - 17:50 | Best Practices for Offline Evaluation | Lien Michiels |
 
-## Wednesday, October 9, 2024
 
+## Wednesday, October 9, 2024
+| Time | Lecture / Event | Speaker(s) |
+|:-----|:--------|:---------|
+| 9:00 - 10:30  | Large Language Models in Recommender Systems | Marco Polignano |
+| 10:30 - 11:00 | *Break* ||
+| 11:00 - 12:20 | Semantics and Content-Based Recommendations | Marco de Gemmis |
+| 12:20 - 13:40 | *Lunch* ||
+| 13:40 - 15:00 | Multimodal Deep Learning for Recommendation | Daniele Malitesta |
+| 15:00 - 15:30 | *Break* ||
+| 15:30 - 17:15 | Recent Advances in Deep Generative Models for Recommender Systems: A Hands-On Lecture | Yashar Deldjoo, Zhankui He, and<br>Anton Korikov |
+| from 18:00    | *Social Event* ||
 
 
 ## Thursday, October 10, 2024
