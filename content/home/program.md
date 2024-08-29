@@ -13,7 +13,6 @@ title = "Program"
   columns = "1"
 +++
 
-*The final program will be announced soon*
 
 ## Tuesday, October 8, 2024
 | Time | Lecture / Event | Speaker(s) |
