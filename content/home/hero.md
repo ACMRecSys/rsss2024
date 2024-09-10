@@ -28,4 +28,4 @@ advanced:
 **Supported by ACM RecSys, SIGCHI, ACM Europe, EURAI, and University of Cagliari**  
 October 8-12, 2024, Bari, Italy
 
-
+![logo_ovs](/assets/media/logo_OVS.svg "logo ovs")
