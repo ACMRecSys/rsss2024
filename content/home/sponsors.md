@@ -12,7 +12,14 @@ title = "Sponsors"
   columns = "1"
 +++
 
+<!--
 <p float="left">
     <img src="/static/images/logo_EY.jpg" alt="logo EY" height="100px" />
     <img src="/static/images/logo_OVS.svg" alt="logo OVS" height="100px" />
+</p>
+-->
+
+<p float="left">
+    <img src="https://recsys.acm.org/wp-content/uploads/2024/08/EY_platinum.jpg" alt="logo EY" height="100px" />
+    <img src="https://recsys.acm.org/wp-content/uploads/2024/08/OVS.png" alt="logo OVS" height="100px" />
 </p>
