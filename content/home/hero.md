@@ -15,7 +15,7 @@ cta_note:
   label: 
 design:
   background:
-    image: header_sponsor.jpg
+    image: header.jpg
     image_darken: 0.6
     image_size: cover
     gradient_end: '#1976d2'
