@@ -17,11 +17,12 @@ title = "Program"
 ## Tuesday, October 8, 2024
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
-| 9:00 - 9:30   | *Opening* ||
-| 9:30 - 10:30  | From Netnews to Ethics: A Historical Overview of Recommender Systems | Alan Said | 
-| 10:30 - 11:00 | *Break* ||
-| 11:00 - 12:20 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
-| 12:20 - 14:00 | *Lunch* || 
+| 8:30 - 9:30   | *Registration* ||
+| 9:30 - 10:00  | *Opening* ||
+| 10:00 - 11:00 | From Netnews to Ethics: A Historical Overview of Recommender Systems | Alan Said | 
+| 11:00 - 11:30 | *Break* ||
+| 11:30 - 12:50 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
+| 12:50 - 14:00 | *Lunch* || 
 | 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding of<br>Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
 | 16:00 - 16:30 | *Break* ||
 | 16:30 - 17:50 | Best Practices for Offline Evaluation | Lien Michiels |
@@ -33,10 +34,10 @@ title = "Program"
 | 9:00 - 10:30  | Large Language Models in Recommender Systems | Marco Polignano |
 | 10:30 - 11:00 | *Break* ||
 | 11:00 - 12:20 | Semantics and Content-Based Recommendations | Marco de Gemmis |
-| 12:20 - 13:40 | *Lunch* ||
-| 13:40 - 15:00 | Multimodal Deep Learning for Recommendation | Daniele Malitesta |
-| 15:00 - 15:30 | *Break* ||
-| 15:30 - 17:15 | Recent Advances in Deep Generative Models for Recommender Systems:<br>A Hands-On Lecture | Yashar Deldjoo, Zhankui He, and<br>Anton Korikov |
+| 12:20 - 13:30 | *Lunch* ||
+| 13:30 - 14:50 | Multimodal Deep Learning for Recommendation | Daniele Malitesta |
+| 14:50 - 15:20 | *Break* ||
+| 15:20 - 17:00 | Recent Advances in Deep Generative Models for Recommender Systems:<br>A Hands-On Lecture | Yashar Deldjoo, Zhankui He, and<br>Anton Korikov |
 | from 18:00    | *Social Event* ||
 
 
@@ -46,33 +47,33 @@ title = "Program"
 | 9:30 - 11:30  | Transformers for Recommender Systems | Craig Macdonald and Aleksandr V. Petrov |
 | 11:30 - 12:00 | *Break* ||
 | 12:00 - 13:20 | Conversational Recommender Systems and Recent Trends Driven by LLMs (Part 1) | Wanling Cai, Li Chen, and Lei Li |
-| 13:20 - 14:40 | *Lunch* ||
+| 13:20 - 14:30 | *Lunch* ||
 | 14:30 - 15:40 | Conversational Recommender Systems and Recent Trends Driven by LLMs (Part 2) | Wanling Cai, Li Chen, and Lei Li |
 | 15:40 - 16:10 | *Break* ||
 | 16:10 - 17:30 | Bias and Fairness in Recommendation | Mirko Marras |
+| from 19:00    | *Social Dinner* ||
 
 
 ## Friday, October 11, 2024
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
-| 9:00 - 10:00  | Recommenders and Digital Economics | Anneline Smets |
-| 10:00 - 11:00 | Creative and Innovative Approaches to Auditing Recommender Systems | Catherine Baker and Debbie Ging |
-| 11:00 - 11:30 | *Break* ||
-| 11:30 - 12:30 | Foresight and Speculative Design for Recommender Systems | Freyja van den Boom |
-| 12:30 - 13:40 | *Lunch* ||
-| 13:40 - 14:40 | Music Information Retrieval and its Application in Music Recommender Systems | Lorenzo Porcaro |
-| 14:40 - 15:40 | Context-Aware Recommender Systems: Foundations and Future Perspectives | Moshe Unger |
-| 15:40 - 16:10 | *Break* ||
-| 16:10 - 17:10 | Considering Temporal Aspects in Recommender Systems | Veronika Bogina |
-| from 18:00    | *Social Dinner* ||
+| 9:30 - 10:30  | Recommenders and Digital Economics | Anneline Smets |
+| 10:30 - 11:30 | Creative and Innovative Approaches to Auditing Recommender Systems | Catherine Baker and Debbie Ging |
+| 11:30 - 12:00 | *Break* ||
+| 12:00 - 13:00 | Foresight and Speculative Design for Recommender Systems | Freyja van den Boom |
+| 13:00 - 14:10 | *Lunch* ||
+| 14:10 - 15:10 | Music Information Retrieval and its Application in Music Recommender Systems | Lorenzo Porcaro |
+| 15:10 - 16:10 | Context-Aware Recommender Systems: Foundations and Future Perspectives | Moshe Unger |
+| 16:10 - 16:40 | *Break* ||
+| 16:40 - 17:40 | Considering Temporal Aspects in Recommender Systems | Veronika Bogina |
 
 
 ## Saturday, October 12, 2024
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
-| 10:00 - 11:00 | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
+| 9:40 - 11:00  | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
 | 11:00 - 12:30 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems<br>Beyond Accuracy | Irina Nalis and Julia Neidhardt |
-| 12:30 - 14:00 | *Lunch* ||
+| 12:30 - 14:00 | *Brunch* ||
 | 14:00 - 16:00 | Enhancing Reproducibility in Recommender Systems: A Path Towards Scientific Integrity<br>and Effective Implementation | Antonio Ferrara and Claudio Pomo | 
 | from 16:00    | *Closing* ||
 
