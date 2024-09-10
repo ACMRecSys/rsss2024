@@ -23,8 +23,3 @@ title = "Sponsors"
 
 <img src="https://recsys.acm.org/wp-content/uploads/2024/08/EY_platinum.jpg" alt="logo EY" width="200" style="display:inline-block; vertical-align:bottom;" />
 <img src="https://recsys.acm.org/wp-content/uploads/2024/08/OVS.png" alt="logo OVS" width="300" style="display:inline-block; vertical-align:bottom;" />
-
-<div style="display:inline-block; vertical-align:bottom;">
-  <img src="https://recsys.acm.org/wp-content/uploads/2024/08/EY_platinum.jpg" alt="logo EY" width="200" />
-  <img src="https://recsys.acm.org/wp-content/uploads/2024/08/OVS.png" alt="logo OVS" width="300" />
-</div>
