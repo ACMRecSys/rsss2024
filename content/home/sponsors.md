@@ -12,10 +12,10 @@ title = "Sponsors"
   columns = "1"
 +++
 
-![alt_text](/images/logo_EY.jpg)
+![alt_text](/static/images/logo_EY.jpg)
 
 <p float="left">
-    <img src="/images/logo_EY.jpg" alt="logo EY" width="100px" />
+    <img src="/static/images/logo_EY.jpg" alt="logo EY" width="100px" />
     <img src="/images/logo_OVS.svg" alt="logo OVS" width="100px" />
 </p>
 
