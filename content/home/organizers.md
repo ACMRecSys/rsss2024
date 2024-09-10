@@ -16,5 +16,4 @@ title = "Organizers"
 * [Cataldo Musto (University of Bari, Italy)](http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto)
 * [Fedelucio Narducci (Polytechnic University of Bari, Italy)](https://sisinflab.poliba.it/people/fedelucio-narducci/)
 
-<img src="/assets/media/logo_OVS.svg"/>
-<img src="/assets/media/logo_EY.jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/EY_logo_2019.svg/480px-EY_logo_2019.svg.png"/>
