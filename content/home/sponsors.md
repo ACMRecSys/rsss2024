@@ -20,6 +20,6 @@ title = "Sponsors"
 -->
 
 <p float="left">
-    <img src="https://recsys.acm.org/wp-content/uploads/2024/08/EY_platinum.jpg" alt="logo EY" height="10" />
-    <img src="https://recsys.acm.org/wp-content/uploads/2024/08/OVS.png" alt="logo OVS" height="10" />
+    <img src="https://recsys.acm.org/wp-content/uploads/2024/08/EY_platinum.jpg" alt="logo EY" width="10" />
+    <img src="https://recsys.acm.org/wp-content/uploads/2024/08/OVS.png" alt="logo OVS" width="10" />
 </p>
