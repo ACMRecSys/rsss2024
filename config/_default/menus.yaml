@@ -28,6 +28,9 @@ main:
   - name: Organizers
     url: '#organizers'
     weight: 70
+  - name: Sponsors
+    url: '#sponsors'
+    weight: 80
 
   # - name: RecSys Summer School 2023
   #   url: https://acmrecsys.github.io/rsss2023/
