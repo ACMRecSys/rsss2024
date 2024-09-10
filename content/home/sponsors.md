@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 weight = 70 
-active = true
+active = false
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Sponsors"
