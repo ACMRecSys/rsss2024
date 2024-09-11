@@ -21,5 +21,10 @@ title = "Sponsors"
 </p>
 -->
 
-<img src="https://recsys.acm.org/wp-content/uploads/2024/09/EY_ss2024.png" alt="logo EY" width="200" style="display:inline-block; vertical-align:bottom;" />
-<img src="https://recsys.acm.org/wp-content/uploads/2024/08/OVS.png" alt="logo OVS" width="300" style="display:inline-block; vertical-align:bottom;" />
+<a href="https://www.ey.com/en_gl" target="_blank" rel="noopener">
+  <img src="https://recsys.acm.org/wp-content/uploads/2024/09/EY_ss2024.png" alt="logo EY" width="200" style="display:inline-block; vertical-align:bottom;" />
+</a>
+
+<a href="https://www.ovscorporate.it/en" target="_blank" rel="noopener">
+  <img src="https://recsys.acm.org/wp-content/uploads/2024/08/OVS.png" alt="logo OVS" width="300" style="display:inline-block; vertical-align:bottom;" />
+</a>
