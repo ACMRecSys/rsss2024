@@ -6,7 +6,7 @@ weight = 30
 active = true 
 
 # ... Put Your Section Options Here (title etc.) ...
-title = "Program"
+title = "Social Events"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,7 +17,6 @@ title = "Program"
 
 
 ## Wednesday, October 9, 2024
-# giro della città vecchia + welcome reception @SpazioMurat
 
 Bari Old town tour at 18:00, then we will have an amazing welcome reception at [Spazio Murat](https://www.openstreetmap.org/#map=19/41.126490/16.871689)
 
