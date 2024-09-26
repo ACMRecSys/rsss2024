@@ -19,18 +19,21 @@ main:
   - name: Program
     url: '#program'
     weight: 40
+  - name: Social Events
+    url: '#social_events'
+    weight: 50
   - name: Registration
     url: '#registration'
-    weight: 50
+    weight: 60
   - name: Venue
     url: '#venue'
-    weight: 60
+    weight: 70
   - name: Organizers
     url: '#organizers'
-    weight: 70
+    weight: 80
   - name: Sponsors
     url: '#sponsors'
-    weight: 80
+    weight: 90
 
   # - name: RecSys Summer School 2023
   #   url: https://acmrecsys.github.io/rsss2023/
