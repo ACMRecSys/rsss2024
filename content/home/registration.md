@@ -29,11 +29,12 @@ Registration includes a five-day program with courses on recommender systems, co
 
 ## Registration Fee
 
-|          | Early (before August 30) | Mid (before September 30) | On-Site |
-|:---------|:------------------------:|:-------------------------:|:-------:|
-| Students | € 350                    | € 425                     | € 500   |
-| Academic | € 450                    | € 540                     | € 630   |
-| Industry | € 550                    | € 655                     | € 750   |
+|          | Early (before August 30) | Mid (before September 30) | On-Site | Virtual |
+|:---------|:------------------------:|:-------------------------:|:-------:|:-------:|
+| Students | € 350                    | € 425                     | € 500   | € 150   |
+| Academic | € 450                    | € 540                     | € 630   | € 200   |
+| Industry | € 550                    | € 655                     | € 750   | € 250   |
+
 
 If the invoice recipient is a VAT holder, the registration fee will be subject to an additional 22% VAT.
 
