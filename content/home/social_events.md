@@ -20,7 +20,7 @@ title = "Social Events"
 
 Bari Old town tour at 18:00, then we will have an amazing welcome reception at [Spazio Murat](https://maps.app.goo.gl/hxag8zVq57rr9K76A)
 
-<img src="../../static/images/spazio_murat.jpg"></img>
+<img src="spazio_murat.jpg"></img>
 
 <iframe width="600" height="450" src="https://www.openstreetmap.org/export/embed.html?bbox=16.869842112064365%2C41.12559479333277%2C16.873535513877872%2C41.127384866945164&amp;layer=mapnik&amp;marker=41.12649070033%2C16.871689150000066" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/41.126490/16.871689">Display larger map</a></small>
 
