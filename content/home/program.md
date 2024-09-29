@@ -22,7 +22,7 @@ title = "Program"
 | 10:15 - 10:45  | *Talk by ACM* ||
 | 10:45 - 11:45 | From Netnews to Ethics: A Historical Overview of Recommender Systems | Alan Said | 
 | 11:45 - 13:00 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
-| 13:00 - 14:00 | *Lunch* || 
+| 13:00 - 14:00 | *Lunch (offered by OVS)* || 
 | 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding of<br>Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
 | 16:00 - 16:30 | *Break* ||
 | 16:30 - 17:50 | Best Practices for Offline Evaluation | Lien Michiels |
@@ -34,7 +34,7 @@ title = "Program"
 | 9:00 - 10:20  | Semantics and Content-Based Recommendations | Marco de Gemmis |
 | 10:20 - 10:50 | *Break* ||
 | 10:50 - 12:20 | Large Language Models in Recommender Systems | Marco Polignano |
-| 12:20 - 13:20 | *Lunch* ||
+| 12:20 - 13:20 | *Lunch (offered by EY)* ||
 | 13:20 - 15:00 | Recent Advances in Deep Generative Models for Recommender Systems:<br>A Hands-On Lecture | Yashar Deldjoo, Zhankui He, and<br>Anton Korikov |
 | 15:00 - 15:30 | *Break* ||
 | 15:30 - 16:50 | Multimodal Deep Learning for Recommendation | Daniele Malitesta |
