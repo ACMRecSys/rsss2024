@@ -71,7 +71,7 @@ title = "Program"
 ## Saturday, October 12, 2024
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
-| 9:40 - 10:40  | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
+| 9:20 - 10:40  | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
 | 10:40 - 11:10  | Industry/Sponsor | TBD |
 | 11:10 - 12:30 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems<br>Beyond Accuracy | Irina Nalis and Julia Neidhardt |
 | 12:30 - 13:30 | *Brunch* ||
