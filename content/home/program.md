@@ -57,7 +57,7 @@ title = "Program"
 ## Friday, October 11, 2024
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
-| 9:30 - 10:30  | Recommenders and Digital Economics | Anneline Smets |
+| 9:30 - 10:30  | Recommenders and Digital Economics | Annelien Smets |
 | 10:30 - 11:00 | *Break* ||
 | 11:00 - 12:00 | Creative and Innovative Approaches to Auditing Recommender Systems | Catherine Baker and Debbie Ging |
 | 12:00 - 13:00 | Foresight and Speculative Design for Recommender Systems | Freyja van den Boom |
