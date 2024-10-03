@@ -3,7 +3,7 @@
 widget: hero
 headless: true
 weight: 10
-title: RecSys Summer School 2024
+title: ACM Europe School on Recommender Systems 2024
 hero_media: 
 cta:
   label: #'**Read more**'
