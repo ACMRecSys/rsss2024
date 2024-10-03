@@ -72,7 +72,8 @@ title = "Program"
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
 | 9:20 - 10:40  | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
-| 10:40 - 11:10  | Industry/Sponsor | TBD |
+| 10:40 - 10:55  | *Industry talk:* Recommender Systems applied to Fashion Retail Industry | OVS |
+| 10:55 - 11:10  | *Industry talk:* AI as a tool for simplifying business processes | EY |
 | 11:10 - 12:30 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems<br>Beyond Accuracy | Irina Nalis and Julia Neidhardt |
 | 12:30 - 13:30 | *Brunch* ||
 | 13:30 - 15:30 | Enhancing Reproducibility in Recommender Systems: A Path Towards Scientific Integrity<br>and Effective Implementation | Antonio Ferrara and Claudio Pomo | 
