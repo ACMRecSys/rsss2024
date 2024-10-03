@@ -13,7 +13,7 @@ title = "Organizers"
 +++
   
 * [Ludovico Boratto (University of Cagliari, Italy)](https://www.ludovicoboratto.com/)
-* [Cataldo Musto (University of Bari, Italy)](http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto)
+* [Cataldo Musto (University of Bari, Italy)](https://swap.di.uniba.it/members/musto.cataldo/)
 * [Fedelucio Narducci (Polytechnic University of Bari, Italy)](https://sisinflab.poliba.it/people/fedelucio-narducci/)
 
 <a href="https://en.unica.it/en" target="_blank" rel="noopener">
