@@ -16,12 +16,11 @@ title = "Program"
 ## Tuesday, October 8, 2024
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
-| 8:30 - 9:15   | *Registration* ||
-| 9:15 - 10:00   | *Welcome Break* ||
-| 10:00 - 10:15  | *Opening* ||
-| 10:15 - 10:45  | *Talk by ACM* ||
-| 10:45 - 11:45 | From Netnews to Ethics: A Historical Overview of Recommender Systems | Alan Said | 
-| 11:45 - 13:00 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
+| 9:15 - 10:15   | *Registration* ||
+| 9:15 - 10:15   | *Welcome Break* ||
+| 10:15 - 10:40  | *Opening* ||
+| 10:40 - 11:40 | From Netnews to Ethics: A Historical Overview of Recommender Systems | Alan Said | 
+| 11:40 - 13:00 | Graph Neural Networks for Recommender Systems | Aonghus Lawlor |
 | 13:00 - 14:00 | *Lunch (offered by OVS)* || 
 | 14:00 - 16:00 | Offline Recommender Systems Evaluation: Towards a Holistic Understanding of<br>Recommendation Performance | Vito Walter Anelli, Nicola Ferro,<br>and Maurizio Ferrari Dacrema |
 | 16:00 - 16:30 | *Break* ||
