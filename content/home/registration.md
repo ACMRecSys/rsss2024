@@ -13,8 +13,9 @@ title = "Registration"
   columns = "1"
 +++
 
+**Registration is closed due to sold out**
 
-To register, please fill in the following [form](https://forms.gle/1t6m1nHbSnmusn5q7).
+~~To register, please fill in the following form~~ Registration is closed (virtual too).
 
 Registration includes a five-day program with courses on recommender systems, coffee breaks, and lunches during all five days, a social event, and a social dinner.
 
