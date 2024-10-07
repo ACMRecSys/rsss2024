@@ -46,7 +46,7 @@ title = "Program"
 | 9:30 - 10:50 | Bias and Fairness in Recommendation | Mirko Marras |
 | 10:50 - 11:20 | *Break* ||
 | 11:20 - 13:20  | Transformers for Recommender Systems | Aleksandr V. Petrov and Craig Macdonald|
-| 13:20 - 14:20 | *Lunch* ||
+| 13:20 - 14:20 | *Lunch (offered by SIGCHI)* ||
 | 14:20 - 15:40 | Conversational Recommender Systems and Recent Trends Driven by LLMs (Part 1) | Wanling Cai, Li Chen, and Lei Li |
 | 15:40 - 16:10 | *Break* ||
 | 16:10 - 17:20 | Conversational Recommender Systems and Recent Trends Driven by LLMs (Part 2) | Wanling Cai, Li Chen, and Lei Li |
@@ -60,7 +60,7 @@ title = "Program"
 | 10:30 - 11:00 | *Break* ||
 | 11:00 - 12:00 | Creative and Innovative Approaches to Auditing Recommender Systems | Catherine Baker and Debbie Ging |
 | 12:00 - 13:00 | Foresight and Speculative Design for Recommender Systems | Freyja van den Boom |
-| 13:00 - 14:10 | *Lunch* ||
+| 13:00 - 14:10 | *Lunch (offered by ACM)* ||
 | 14:10 - 15:10 | Music Information Retrieval and its Application in Music Recommender Systems | Lorenzo Porcaro |
 | 15:10 - 16:10 | Context-Aware Recommender Systems: Foundations and Future Perspectives | Moshe Unger |
 | 16:10 - 16:40 | *Break* ||
@@ -74,7 +74,7 @@ title = "Program"
 | 10:40 - 10:55  | *Industry talk:* Recommender Systems applied to Fashion Retail Industry | OVS |
 | 10:55 - 11:10  | *Industry talk:* AI as a tool for simplifying business processes | EY |
 | 11:10 - 12:30 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems<br>Beyond Accuracy | Irina Nalis and Julia Neidhardt |
-| 12:30 - 13:30 | *Brunch* ||
+| 12:30 - 13:30 | *Brunch (offered by EurAI)* ||
 | 13:30 - 15:30 | Enhancing Reproducibility in Recommender Systems: A Path Towards Scientific Integrity<br>and Effective Implementation | Antonio Ferrara and Claudio Pomo | 
 | from 15:30    | *Closing* ||
 
