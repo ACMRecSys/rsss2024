@@ -59,12 +59,14 @@ title = "Program"
 | 9:30 - 10:30  | Recommenders and Digital Economics | Annelien Smets |
 | 10:30 - 11:00 | *Break* ||
 | 11:00 - 12:00 | Creative and Innovative Approaches to Auditing Recommender Systems | Catherine Baker and Debbie Ging |
-| 12:00 - 13:00 | Foresight and Speculative Design for Recommender Systems | Freyja van den Boom |
-| 13:00 - 14:10 | *Lunch (offered by ACM)* ||
+| 12:00 - 12:10 | *Short break* ||
+| 12:10 - 13:10 | Foresight and Speculative Design for Recommender Systems | Freyja van den Boom |
+| 13:10 - 14:10 | *Lunch (offered by ACM)* ||
 | 14:10 - 15:10 | Music Information Retrieval and its Application in Music Recommender Systems | Lorenzo Porcaro |
-| 15:10 - 16:10 | Context-Aware Recommender Systems: Foundations and Future Perspectives | Moshe Unger |
-| 16:10 - 16:40 | *Break* ||
-| 16:40 - 17:40 | Considering Temporal Aspects in Recommender Systems | Veronika Bogina |
+| 15:10 - 15:20 | *Short break* ||
+| 15:20 - 16:20 | Context-Aware Recommender Systems: Foundations and Future Perspectives | Moshe Unger |
+| 16:20 - 16:50 | *Break* ||
+| 16:50 - 17:50 | Considering Temporal Aspects in Recommender Systems | Veronika Bogina |
 
 
 ## Saturday, October 12, 2024
