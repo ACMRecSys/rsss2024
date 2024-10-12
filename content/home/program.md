@@ -72,13 +72,14 @@ title = "Program"
 ## Saturday, October 12, 2024
 | Time | Lecture / Event | Speaker(s) |
 |:-----|:--------|:---------|
-| 9:20 - 10:40  | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
-| 10:40 - 10:55  | *Industry talk:* Recommender Systems applied to Fashion Retail Industry | OVS |
-| 10:55 - 11:10  | *Industry talk:* AI as a tool for simplifying business processes | EY |
-| 11:10 - 12:30 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems<br>Beyond Accuracy | Irina Nalis and Julia Neidhardt |
-| 12:30 - 13:30 | *Brunch (offered by EurAI)* ||
-| 13:30 - 15:30 | Enhancing Reproducibility in Recommender Systems: A Path Towards Scientific Integrity<br>and Effective Implementation | Antonio Ferrara and Claudio Pomo | 
-| from 15:30    | *Closing* ||
+| 9:30 - 10:40  | Fantastic Reviews and How to Write Them | Christine Bauer and Olivier Jeunen |
+| 10:40 - 10:50 | *Short Break (with coffee)* ||
+| 10:50 - 11:05  | *Industry talk:* Recommender Systems applied to Fashion Retail Industry | OVS |
+| 11:05 - 11:20  | *Industry talk:* AI as a tool for simplifying business processes | EY |
+| 11:20 - 12:45 | Towards Possibility: Interdisciplinary Perspectives on Enhancing Recommender Systems<br>Beyond Accuracy | Irina Nalis and Julia Neidhardt |
+| 12:45 - 13:45 | *Brunch (offered by EurAI)* ||
+| 13:45 - 15:45 | Enhancing Reproducibility in Recommender Systems: A Path Towards Scientific Integrity<br>and Effective Implementation | Antonio Ferrara and Claudio Pomo | 
+| from 15:45    | *Closing* ||
 
 
 
